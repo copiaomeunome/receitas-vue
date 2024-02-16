@@ -1,0 +1,13 @@
+{
+    "instalação do vue": {
+        "criação do projeto": "npm create vue@3.7.3",
+        "instalação": "adicionei typescript e só",
+        "instalação2": "cd ./<nome do projeto> e npm install",
+        "rodar": "npm run dev"
+    },
+    "preparando o ambiente": {
+        "apagar": "tudo em src/components, src/assets logo.svg base.css e tudo dentro de main.css",
+        "criar": "pasta imagem em src/assets, importei uma fonte no index.html, apaguei tudo em src/App.vue",
+        "adicionar": "tsconfig.app.json>include>---, 'src/**/*.ts'---"
+    }
+}
